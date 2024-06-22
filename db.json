@@ -1,0 +1,466 @@
+{
+  "userDetails": [
+    {
+      "id": 1,
+      "mobileNumber": 6305751649,
+      "username": "munwar",
+      "email": "munwarmatters@gmail.com",
+      "password": "muneer"
+    },
+    {
+      "username": "muneer",
+      "email": "rama@gmail.com",
+      "mobileNumber": "9966393638",
+      "password": "123abc!@",
+      "id": 2
+    },
+    {
+      "username": "munsheer",
+      "email": "ramana@gmail.com",
+      "mobileNumber": "1234567891",
+      "password": "123abc!@",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "img": "https://www.pngitem.com/pimgs/m/15-153724_chicken-biryani-lowres-chicken-biryani-plate-png-transparent.png",
+      "details": "chicken biryani",
+      "price": "100",
+      "onChange": "Rs.250",
+      "stock": "30",
+      "id": 2,
+      "category": "chicken"
+    },
+    {
+      "img": "https://www.ruchiskitchen.com/wp-content/uploads/2015/05/Chicken-biryani-recipe-2.jpg",
+      "details": "chicken biryani",
+      "price": "500",
+      "stock": "2",
+      "id": 3,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.AIxyBdyLl3ZF7zzEvqW-QwHaE8&pid=Api&P=0&h=180",
+      "details": "chicken biryani",
+      "price": "350",
+      "stock": "1",
+      "id": 4,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.HnuvwodPzHMQMIFOe8b9UAHaGq&pid=Api&P=0&h=180",
+      "details": "mutton biryani",
+      "price": "500",
+      "onChange": "Rs.750",
+      "stock": "5",
+      "id": 5,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Mutton-Biryani.jpg",
+      "details": "mutton biryani",
+      "price": "300",
+      "stock": "3",
+      "id": 6,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://static.wixstatic.com/media/91e241_b44aab0c38364d05b4d66a563af1aa6b~mv2.jpg/v1/fit/w_720%2Ch_480%2Cal_c%2Cq_80/file.jpg",
+      "details": "mutton biryani",
+      "price": "250",
+      "onChange": "Rs.320",
+      "stock": "25",
+      "id": 7,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.-y2SJ3u3Prkymq2UJcgvGAHaE8&pid=Api&P=0&h=180",
+      "details": "mutton biryani",
+      "price": "700",
+      "stock": "2",
+      "id": 8,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.AtJKMnw-DldGLfR7MsCfCQHaHa&pid=Api&P=0&h=180",
+      "details": "fish biryani",
+      "price": "300",
+      "onChange": "Rs.500",
+      "stock": "25",
+      "id": 9,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://images.slurrp.com/prod/articles/9p4u418suzi.webp",
+      "details": "fish biryani",
+      "price": "200",
+      "stock": "1",
+      "id": 10,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://thumbs.dreamstime.com/z/spicy-delicious-fish-biryani-traditional-clay-pot-malabar-hydrabadi-chicken-dum-biriyani-pulao-basmati-rice-herbs-raitha-201041064.jpg",
+      "details": "fish biryani",
+      "price": "800",
+      "onChange": "Rs.1200",
+      "stock": "2",
+      "id": 11,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://www.mirchitales.com/wp-content/uploads/2020/12/Fish-Biryani-8-scaled.jpg",
+      "details": "fish biryani",
+      "price": "150",
+      "stock": "10",
+      "id": 12,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.rdOtt3rIG3xTYB5MNNyfWAHaHa&pid=Api&P=0&h=180",
+      "details": "veg biryani",
+      "price": "250",
+      "onChange": "Rs.500",
+      "stock": "25",
+      "id": 13,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/09/13174142/Untitled-design-2-7-1600x900.jpg",
+      "details": "veg biryani",
+      "price": "150",
+      "stock": "52",
+      "id": 14,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://static.independent.co.uk/2021/03/09/10/vegetarian-biryani-090321.jpg",
+      "details": "veg biryani",
+      "price": "800",
+      "onChange": "Rs.1200",
+      "stock": "52",
+      "id": 15,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "http://www.archanaskitchen.com/images/archanaskitchen/1-Author/sandhya-archanaskitchen.com/Chettinad_Vegetable_Biryani_Recipe.jpg",
+      "details": "veg biryani",
+      "price": "100",
+      "stock": "2",
+      "id": 16,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://loseweightbyeating.com/wp-content/uploads/2021/06/AdobeStock_255720974-scaled.jpeg",
+      "details": "veg fries",
+      "price": "250",
+      "onChange": "Rs.500",
+      "stock": "12",
+      "id": 17,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://www.averiecooks.com/wp-content/uploads/2015/03/broccolistirfry-15-760x760.jpg",
+      "details": "veg fries",
+      "price": "100",
+      "stock": "25",
+      "id": 18,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "http://nishamadhulika.com/imgpst/featured/Veg-fry-recipe.JPG",
+      "details": "veg fries",
+      "price": "300",
+      "onChange": "Rs.500",
+      "stock": "2",
+      "id": 19,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://www.staysnatched.com/wp-content/uploads/2018/08/vegetable-stir-fry-5.jpg",
+      "details": "veg fries",
+      "price": "70",
+      "stock": "12",
+      "id": 20,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://static.vecteezy.com/system/resources/previews/024/724/510/non_2x/hot-and-crispy-fried-chicken-isolated-on-transparent-background-fresh-pieces-of-crispy-fried-chicken-fast-food-generative-ai-png.png",
+      "details": "chicken fries",
+      "price": "350",
+      "stock": "50",
+      "id": 21,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://purepng.com/public/uploads/large/purepng.com-fried-chickenfried-chickenchickendishfried-1411527420109ps1kf.png",
+      "details": "chicken fry",
+      "price": "650",
+      "onChange": "Rs.1200",
+      "stock": "2",
+      "id": 22,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://purepng.com/public/uploads/medium/purepng.com-fried-chickenfried-chickenchickendishfried-1411527419762grhhp.png",
+      "details": "chicken fry",
+      "price": "300",
+      "stock": "30",
+      "id": 23,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://i.redd.it/8oxnulzkqza11.jpg",
+      "details": "chicken fries",
+      "price": "220",
+      "stock": "12",
+      "id": 24,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.RFGftXBvtZ909q77RgUfWQHaEK&pid=Api&P=0&h=180",
+      "details": "mutton fry",
+      "price": "700",
+      "onChange": "Rs.1200",
+      "stock": "120",
+      "id": 25,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.lT5PyO-YDGL3v_6dmbEgBwHaE8&pid=Api&P=0&h=180",
+      "details": "mutton fry",
+      "price": "250",
+      "onChange": "Rs.400",
+      "stock": "10",
+      "id": 26,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://geekrobocook.com/wp-content/uploads/2021/03/15.-South-Style-Mutton-Milagai-Fry.jpg",
+      "details": "mutton fry",
+      "price": "450",
+      "stock": "12",
+      "id": 27,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://i.ytimg.com/vi/v9zw4g7FsaU/maxresdefault.jpg",
+      "details": "mutton fry",
+      "price": "250",
+      "stock": "1",
+      "id": 28,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.-tvv36yAJDeA1iK4kSrO4gHaHa&pid=Api&P=0&h=180",
+      "details": "fish fry",
+      "price": "350",
+      "onChange": "Rs.500",
+      "stock": "12",
+      "id": 29,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse3.mm.bing.net/th?id=OIP.oDQLbJsmQmkMtCYROZz80QHaHa&pid=Api&P=0&h=180",
+      "details": "fish fry",
+      "price": "150",
+      "stock": "2",
+      "id": 30,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.uBLrTK-FWuo0N9imWsd8AgHaHa&pid=Api&P=0&h=180",
+      "details": "fish fry",
+      "price": "500",
+      "onChange": "Rs.750",
+      "stock": "50",
+      "id": 31,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.yquQ0NVaCXYbJRpw325bKAHaEK&pid=Api&P=0&h=180",
+      "details": "fish fry",
+      "price": "100",
+      "stock": "52",
+      "id": 32,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.D7IpMJOLWXpm8zT2B8i_4AHaF4&pid=Api&P=0&h=180",
+      "details": "Chicken Curry",
+      "price": "300",
+      "stock": "120",
+      "id": 33,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.NaL-bFuopsMt5EthXJYgqgHaGU&pid=Api&P=0&h=180",
+      "details": "Chicken Curry",
+      "price": "150",
+      "stock": "20",
+      "id": 34,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.aTQL5RERvw0sGciJXO5_kQHaE8&pid=Api&P=0&h=180",
+      "details": "Chicken Curry",
+      "price": "500",
+      "stock": "10",
+      "id": 35,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse3.mm.bing.net/th?id=OIP.Ddmp0rpEx5PGPQk4Xv--bgHaFj&pid=Api&P=0&h=180",
+      "details": "Chicken Curry",
+      "price": "450",
+      "stock": "1",
+      "id": 36,
+      "category": "chicken",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.tmwtxbCtatts1HorSeiu1wHaE8&pid=Api&P=0&h=180",
+      "details": "mutton curry",
+      "price": "450",
+      "stock": "120",
+      "id": 37,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse3.mm.bing.net/th?id=OIP.8JFcc1pBaOUlTXmaxw27wQHaHa&pid=Api&P=0&h=180",
+      "details": "mutton curry",
+      "price": "620",
+      "stock": "10",
+      "id": 38,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.osIjORnK4sGSRUu--woJYAHaEK&pid=Api&P=0&h=180",
+      "details": "mutton curry",
+      "price": "425",
+      "stock": "1",
+      "id": 39,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.qL5HhLl0Nt_7IRRzbskNHwHaEK&pid=Api&P=0&h=180",
+      "details": "mutton curry",
+      "price": "200",
+      "stock": "3",
+      "id": 40,
+      "category": "meat",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.pgaC1rFDA6sEJtK7hOjj5AHaHa&pid=Api&P=0&h=180",
+      "details": "fish curry",
+      "price": "250",
+      "stock": "15",
+      "id": 41,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.yG5i9EfQFRtQfnfarPCrNQHaJ4&pid=Api&P=0&h=180",
+      "details": "fish curry",
+      "price": "655",
+      "stock": "10",
+      "id": 42,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th?id=OIP.sRcHccTnWZ6_G3c2FcpcPAHaE8&pid=Api&P=0&h=180",
+      "details": "fish curry",
+      "price": "355",
+      "stock": "1",
+      "id": 43,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.JE-xNj-MXsJOzvnFYcuv4AHaFX&pid=Api&P=0&h=180",
+      "details": "fish curry",
+      "price": "200",
+      "stock": "6",
+      "id": 44,
+      "category": "sea food",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse2.mm.bing.net/th?id=OIP.txKJI15orEJEnaGW2RLlmgHaHb&pid=Api&P=0&h=180",
+      "details": "sambar",
+      "price": "50",
+      "stock": "45",
+      "id": 45,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.p9DjcrHJxRWYYTRAolGGtAHaEI&pid=Api&P=0&h=180",
+      "details": "Rasam",
+      "price": "62",
+      "stock": "20",
+      "id": 46,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse4.mm.bing.net/th?id=OIP.nXx7Kznlpf4IV9fJVfjI8wHaHF&pid=Api&P=0&h=180",
+      "details": "brinjal curry",
+      "price": "46",
+      "stock": "25",
+      "id": 47,
+      "category": "vegiees",
+      "quantity": "1"
+    },
+    {
+      "img": "https://tse3.mm.bing.net/th?id=OIP.C2uwnyXo7fH4nIgdR4YjHgHaHa&pid=Api&P=0&h=180",
+      "details": "potato curry",
+      "price": "80",
+      "stock": "50",
+      "id": 48,
+      "category": "vegiees",
+      "quantity": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
